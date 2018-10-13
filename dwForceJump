@@ -1,0 +1,1 @@
+public const Int32 dwForceJump = 0x50DF1B8;
