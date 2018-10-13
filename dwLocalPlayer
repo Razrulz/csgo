@@ -1,0 +1,1 @@
+public const Int32 dwLocalPlayer = 0xC5F89C;
